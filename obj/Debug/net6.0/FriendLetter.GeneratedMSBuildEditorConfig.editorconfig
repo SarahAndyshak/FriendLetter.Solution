@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/sarahandyshak/Desktop/FriendLetter.Solution/FriendLetter
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/sarahandyshak/Desktop/FriendLetter.Solution/FriendLetter/Views/Home/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Gb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/sarahandyshak/Desktop/FriendLetter.Solution/FriendLetter/Views/Home/Letter.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9MZXR0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
