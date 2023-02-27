@@ -17,3 +17,5 @@
 /Users/sarahandyshak/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/net6.0/FriendLetter.pdb
 /Users/sarahandyshak/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/net6.0/FriendLetter.genruntimeconfig.cache
 /Users/sarahandyshak/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/net6.0/ref/FriendLetter.dll
+/Users/sarahandyshak/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/net6.0/FriendLetter.RazorAssemblyInfo.cache
+/Users/sarahandyshak/Desktop/FriendLetter.Solution/FriendLetter/obj/Debug/net6.0/FriendLetter.RazorAssemblyInfo.cs

@@ -14,3 +14,7 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = /Users/sarahandyshak/Desktop/FriendLetter.Solution/FriendLetter
 build_property._RazorSourceGeneratorDebug = 
+
+[/Users/sarahandyshak/Desktop/FriendLetter.Solution/FriendLetter/Views/Home/Letter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9MZXR0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
